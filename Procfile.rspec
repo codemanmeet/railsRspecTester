@@ -1,0 +1,2 @@
+dynamo:   bin/run_dynamo_local_test.sh
+event_store:  bin/run_event_store_test.sh

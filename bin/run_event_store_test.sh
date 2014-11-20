@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd ../../sampleNode
+cd ../sampleNode
 node lib/main.js
